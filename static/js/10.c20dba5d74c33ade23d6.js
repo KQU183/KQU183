@@ -1,0 +1,2 @@
+webpackJsonp([10],{NQ2U:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{attrs:{id:"Software"}},[this._v("\n    大数据管理系统\n")])},staticRenderFns:[]};var a=n("VU/8")({name:"Software",data:function(){return{}}},r,!1,function(e){n("Nqes")},"data-v-1e59e2ab",null);t.default=a.exports},Nqes:function(e,t){}});
+//# sourceMappingURL=10.c20dba5d74c33ade23d6.js.map
